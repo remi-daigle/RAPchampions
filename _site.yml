@@ -1,0 +1,14 @@
+name: "Strategic RAP Champions"
+navbar:
+  title: "Strategic RAP Champions"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "R Friday Series"
+      href: rseries.html
+    - text: "Spatial Tools"
+      href: spatial.html
+    - text: "Workshops"
+      href: workshops.html
+    - text: "About Us"
+      href: about.html
