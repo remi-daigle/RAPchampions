@@ -2,4 +2,8 @@
 title: "About This Website"
 ---
 
-More about this website.
+# It takes a village...
+
+## Contributors & Organizers: 
+
+Clark Richards, Dewey Dunnington, Shelley Lang, Jessica Nephin, Nancy Soontiens, Quentin Stoyel, Gordana Lazin, Laura Feyrer, Eric Pedersen, Remi Daigle, Dan Ricard, Mike McMahon, Ryan Stanley, Freya Keyser, Brendan Wringe, Keith Lewis, Phil Greyson, Susan Heaslip, Paul Regular, Peter Kraska, Jessica Sameoto, Danielle Dempsey, Jamie Tam, Andrew Cogswell, Kira Krumhansl, John O’brien, Ben Sutherland, Marie Auger-Méthé, Sarah Wong, Tana Worcester, Catalina Gomez 
