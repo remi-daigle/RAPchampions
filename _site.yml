@@ -1,4 +1,5 @@
 name: "Strategic RAP Champions"
+output_dir: "docs"
 navbar:
   title: "Strategic RAP Champions"
   left:
